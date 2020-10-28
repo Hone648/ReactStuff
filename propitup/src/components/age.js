@@ -1,5 +1,6 @@
-import React, { Components } from 'react';
+import React, { Components, useState } from 'react';
 import Card from './card';
+
 
 const Age = (props) => {
 
